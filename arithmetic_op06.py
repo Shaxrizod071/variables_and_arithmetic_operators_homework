@@ -5,5 +5,5 @@ b=3
 # Create a variable "c"  and assign it the value of the int 5.
 c=5
 # Create a variable called "answer" and assign it the sum of a, b and c
-d=a+b+c
-print(d)
+answer=a+b+c
+print(answer)
